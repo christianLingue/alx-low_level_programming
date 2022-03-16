@@ -1,5 +1,11 @@
 void print_alphabet(void)
 {
-  char alphabet = 'abcdefghijklmnopqrstuvwxyz';
-  _putchar(alphabet);
+  char letter = 'a';
+  while( letter <= 'z' )
+    {
+      _putchar(letter);
+      letter++;
+    }
+  _putchar('\n');
+  
 }
