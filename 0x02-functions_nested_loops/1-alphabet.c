@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * print alphabet - Print the alphabet in miniscule
+ * print_alphabet - Print the alphabet in miniscule
  */
 void print_alphabet(void)
 {
