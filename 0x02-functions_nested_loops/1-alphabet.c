@@ -1,5 +1,5 @@
 void print_alphabet(void)
 {
-  char alphabet = "abcdefghijklmnopqrstuvwxyz";
+  char alphabet = 'abcdefghijklmnopqrstuvwxyz';
   _putchar(alphabet);
 }

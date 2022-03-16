@@ -1,5 +1,2 @@
-//The prototype of the fuctions _putchar
-int _putchar(char c);
-
-//The prototype of the function print alphabet
+int _putchar(char c)
 void print_alphabet(void);
