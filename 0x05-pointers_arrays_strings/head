@@ -1,0 +1,4 @@
+#!/bin/bash
+file=$(find . -type f -name "*.c")
+sed -i -e "s/holberton.h/main.h/g" $file
+
